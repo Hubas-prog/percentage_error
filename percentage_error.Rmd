@@ -25,7 +25,7 @@ To obtain the margin of error, the standard error is simply multiplied by the Z�
 For a 95% confidence level, Zα = 1,96
 For a 99% confidence level, Zα = 2,58 ...
 
-The formula assumes an infinitely large population and does not depend on the size of the population of interest. According to sampling theory, this assumption is reasonable when the sampling fraction is **small**. The margin of error for a particular sample is essentially the same whether the population of interest is the size of a school, a city, a province, or a country, as long as the sampling fraction is less than 5% (in other words, when the population is **less than 20 times** the sample).
+The formula assumes an infinitely large population and does not depend on the size of the population of interest. According to sampling theory, this assumption is reasonable when the sampling fraction is **small**. The margin of error for a particular sample is essentially the same whether the population of interest is the size of a school, a city, a province, or a country, as long as the sampling fraction is less than 5% (in other words, when the population is **more than 20 times** the sample).
 
 In case the sampling fraction exceeds 5%, it is possible to **adjust the margin of error** using the finite population correction factor.
 
