@@ -30,7 +30,7 @@ this assumption is reasonable when the sampling fraction is **small**.
 The margin of error for a particular sample is essentially the same
 whether the population of interest is the size of a school, a city, a
 province, or a country, as long as the sampling fraction is less than 5%
-(in other words, when the population is **less than 20 times** the
+(in other words, when the population is **more than 20 times** the
 sample).
 
 In case the sampling fraction exceeds 5%, it is possible to **adjust the
