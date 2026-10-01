@@ -10,7 +10,7 @@ Cédric Hubas
 
 ## Shiny application
 
-A Shiny application of the following code is available in the file <a href="https://github.com/Hubas-prog/percentage_error/blob/main/Shiny-percentage-error.R">'Shiny-percentage-error.R'</a>
+A Shiny application of the following code is available in the file <a href="https://github.com/Hubas-prog/percentage_error/blob/main/Shiny-percentage-error.R">Shiny-percentage-error.R</a>
 
 ## Introduction
 
