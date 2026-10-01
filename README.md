@@ -8,6 +8,10 @@ Cédric Hubas
 - <a href="#graphical-representation"
   id="toc-graphical-representation">Graphical representation</a>
 
+## Shiny application
+
+A Shiny application of the following code is available in the file 'Shiny-percentage-error.R' 
+
 ## Introduction
 
 The standard error of a proportion or percentage (**p**) is its level of
